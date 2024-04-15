@@ -1,6 +1,5 @@
-Thanks for downloading this template!
-
-Template Name: Restaurantly
-Template URL: https://bootstrapmade.com/restaurantly-restaurant-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Programa Codo a Codo
+Grupo: 17
+URL: tp-integrador-grupo17.netlify.app
+Autor: grupo 17
+Tecnologias: html, css, js, bootstrap
